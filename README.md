@@ -1,13 +1,13 @@
 
-# List of .ADULT One Word Domain Names (3,412)
+# List of .ADULT One Word Domain Names (3,415)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/adult-oneword-domains.svg?style=flat)]() [![3,412 .ADULT one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C412-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/adult-oneword-domains.svg?style=flat)]() [![3,415 .ADULT one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C415-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential .ADULT one-word domains still available to buy.
 
-This dataset contains 3,415 .ADULT one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,420 .ADULT one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.ADULT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=description.top) (3,412) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.ADULT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=description.top) (3,415) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -15,48 +15,48 @@ If you want to search & filters the complete database of [.ADULT one word domain
     <a href="https://github.com/UniqueDomains/adult-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/adult-oneword-domains/blob/main/adult.csv"><b>⬇️ CSV (3.42K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/adult-oneword-domains/blob/main/adult.json"><b>⬇️ JSON (3.42K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.41K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.42K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires | Actions                                                                                                                                                                                |
-| ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| abactinal.adult  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/a33dc065-3b18-43a8-b7ad-1a1fd5fb6b51?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abaft.adult      | available | 43       | 2%     | 5      |           |         |         | [Analyse](https://unique.domains/domain/91a36586-fe41-44e8-8eaf-c752a7c18569?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abandoned.adult  | available | 58       | 10%    | 9      |           |         |         | [Analyse](https://unique.domains/domain/5b4f2f45-9d18-44ec-aa94-d9d658844584?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abashed.adult    | available | 60       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/9735b5dd-bfc3-4f7d-9d3b-e9533f39c051?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abasic.adult     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/a84010bf-0a89-4985-8197-c04a905c126a?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abatable.adult   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/49deded6-691d-4eec-a0cd-c3fa3e825f52?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abatic.adult     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/af757bd2-6832-48cb-b680-a41ae25aceb6?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abaxial.adult    | available | 54       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/be830c47-9738-43f6-b5ea-7b86e3beafbb?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abbatial.adult   | available | 50       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/03caf307-6303-45fa-b2b8-0e44e321e444?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abdicable.adult  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/879a71ca-d53e-468d-bca6-b9e959c80230?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abdominal.adult  | available | 82       | 2%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/e3c17f5e-c0da-46d6-9560-7cb576e8af15?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abdominous.adult | available | 56       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/e97e805f-c443-4915-935b-c240721eb013?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abducens.adult   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/38583be7-a8d7-4dbf-b77f-0e6054f4f6ee?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abducent.adult   | available | 68       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/4bded2c9-4c17-494b-a6ef-ac8a260dec25?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abducting.adult  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/cd0f0696-2640-48e9-8ef8-2a9ec6a44787?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abenaki.adult    | available | 82       | 3%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/db098b7d-8b05-45b3-80f6-3c539b1b6da4?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| aberdonian.adult | available | 68       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/fb26d811-4a38-4023-bc7d-a52a1a5c7b86?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| aberrant.adult   | available | 74       | 7%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/0b8a8a58-4dbb-40dc-a450-e8d342b5622b?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abeyant.adult    | available | 56       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/d7659f60-7eef-4cb1-904a-165ed53a8ed7?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abhorrent.adult  | available | 54       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/f5dfd89d-1a6a-4d90-ac69-fc7dea54b51b?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abiding.adult    | available | 106      | 5%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/9a675ac9-5b8f-44db-9a9b-aafe99c940db?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abient.adult     | available | 54       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/2109081c-9b25-4f94-a137-df1790badbc6?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abject.adult     | available | 94       | 8%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/69946ad5-1466-4c66-a2d5-b6ca7d75eb3e?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abkhas.adult     | available | 68       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/e0394b97-fe05-40d0-93cb-bae7a0988142?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abkhasian.adult  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/ac31b539-dfd4-45b7-96ab-6d96d7f63099?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abkhaz.adult     | available | 82       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/c0a01ea4-1bf6-4961-896e-1af60dfdd1d2?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| abkhazian.adult  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/3e5c3050-2f01-4166-9f09-ef4ee2f970f9?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| ablated.adult    | available | 52       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/944cbba5-e481-4cc8-a703-8a82790db84f?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| ablative.adult   | available | 68       | 3%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/9476a86a-113a-48fb-a799-64296f13c465?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
-| ablaze.adult     | available | 72       | 6%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/702bf700-f0bc-4cc5-9818-b3bf7b923186?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.domain.analyze) |
+| Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| abactinal.adult  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.adult      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.adult  | available | 58       | 10%    | 9      |           |         |         |
+| abashed.adult    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.adult     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.adult   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.adult     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.adult    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.adult   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.adult  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.adult  | available | 82       | 2%     | 9      |           |         |         |
+| abdominous.adult | available | 56       | 1%     | 10     |           |         |         |
+| abducens.adult   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.adult   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.adult  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.adult    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.adult | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.adult   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.adult    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.adult  | available | 54       | 1%     | 9      |           |         |         |
+| abiding.adult    | available | 106      | 5%     | 7      |           |         |         |
+| abient.adult     | available | 54       | 1%     | 6      |           |         |         |
+| abject.adult     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.adult     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.adult  | available | 78       | 1%     | 9      |           |         |         |
+| abkhaz.adult     | available | 82       | 2%     | 6      |           |         |         |
+| abkhazian.adult  | available | 78       | 1%     | 9      |           |         |         |
+| ablated.adult    | available | 52       | 2%     | 7      |           |         |         |
+| ablative.adult   | available | 68       | 3%     | 8      |           |         |         |
+| ablaze.adult     | available | 72       | 6%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/adult-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/adult-oneword-domains/blob/main/adult.csv"><b>⬇️ CSV (3.42K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/adult-oneword-domains/blob/main/adult.json"><b>⬇️ JSON (3.42K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.41K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.42K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -89,26 +89,26 @@ If you want to search & filters the complete database of [.ADULT one word domain
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 19,565       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 45,236       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 2,942,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 19,571       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 45,247       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 2,943,532    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 3,208        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
-| .ACADEMY       | 2,940        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
-| .ACCOUNTANT    | 3,460        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
-| .ACCOUNTANTS   | 3,414        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
-| .ACTOR         | 3,395        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
-| .ADULT         | 3,412        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
-| .AG            | 3,248        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
-| .AGENCY        | 2,583        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
+| .AC            | 3,215        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .ACADEMY       | 2,943        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
+| .ACCOUNTANT    | 3,463        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
+| .ACCOUNTANTS   | 3,417        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
+| .ACTOR         | 3,399        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
+| .ADULT         | 3,415        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
+| .AG            | 3,249        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
+| .AGENCY        | 2,587        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
 | .AI            | 53,577       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
-| .AIRFORCE      | 3,444        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
-| .APARTMENTS    | 3,388        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
+| .AIRFORCE      | 3,453        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
+| .APARTMENTS    | 3,397        | [Github](https://github.com/UniqueDomains/apartments-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=apartments-oneword-domains&utm_content=table.link)    |
 | .APP           | 56,519       | [Github](https://github.com/UniqueDomains/app-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=app-oneword-domains&utm_content=table.link)           |
-| .ARCHI         | 3,384        | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
+| .ARCHI         | 3,393        | [Github](https://github.com/UniqueDomains/archi-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=archi-oneword-domains&utm_content=table.link)         |
 | .ARMY          | 3,300        | [Github](https://github.com/UniqueDomains/army-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=army-oneword-domains&utm_content=table.link)          |
 | .ART           | 3,120        | [Github](https://github.com/UniqueDomains/art-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=art-oneword-domains&utm_content=table.link)           |
 | .ASIA          | 2,819        | [Github](https://github.com/UniqueDomains/asia-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=table.link)          |
