@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ADULT one-word domains still available to buy.
 
-This dataset contains 4,206 .ADULT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,210 .ADULT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ADULT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=description.top) (3,941) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.ADULT one word domain
 | abaxial.adult    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.adult   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.adult  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.adult  | available | 82       | 2%     | 9      |           |         |         |
+| abdominal.adult  | available | 82       | 1%     | 9      |           |         |         |
 | abdominous.adult | available | 56       | 1%     | 10     |           |         |         |
 | abducens.adult   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.adult   | available | 68       | 1%     | 8      |           |         |         |
