@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.ADULT one word domain
 | abbatial.adult   | available | 50       | 1%     | 8      |           |         |         |
 | abc.adult        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.adult  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.adult  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.adult  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.adult | available | 56       | 1%     | 10     |           |         |         |
 | abducens.adult   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.adult   | available | 68       | 1%     | 8      |           |         |         |
@@ -43,7 +43,7 @@ If you want to search & filters the complete database of [.ADULT one word domain
 | aberdonian.adult | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.adult   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.adult    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.adult  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.adult  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.adult    | available | 106      | 5%     | 7      |           |         |         |
 | abient.adult     | available | 54       | 1%     | 6      |           |         |         |
 | ability.adult    | available | 92       | 18%    | 7      |           |         |         |
