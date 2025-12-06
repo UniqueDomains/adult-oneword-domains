@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.ADULT one word domain
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | aaa.adult        | premium   | 70       | 38%    | 3      |           |         |         |
-| aaron.adult      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.adult      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.adult  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.adult      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.adult  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.ADULT one word domain
 | abatic.adult     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.adult    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.adult   | available | 50       | 1%     | 8      |           |         |         |
-| abc.adult        | available | 102      | 41%    | 3      |           |         |         |
+| abc.adult        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.adult  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.adult  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.adult | available | 56       | 1%     | 10     |           |         |         |
