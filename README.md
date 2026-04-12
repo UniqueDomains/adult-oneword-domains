@@ -73,10 +73,10 @@ print(df.head())
 | good.adult   | available | $166.98   | —             | 82             | 55     | 4      | namecheap      |
 | the.adult    | resell    | —         | —             | 98             | 58     | 3      | Name.com, Inc. |
 | only.adult   | premium   | $310      | $310          | 110            | 46     | 4      | name.com       |
-| zero.adult   | available | $166.98   | —             | 112            | 54     | 4      | namecheap      |
+| alpha.adult  | available | $166.98   | —             | 90             | 54     | 5      | namecheap      |
 | shop.adult   | resell    | —         | —             | 78             | 54     | 4      | Name.com, Inc. |
 | deep.adult   | premium   | $310      | $310          | 72             | 43     | 4      | name.com       |
-| alpha.adult  | available | $166.98   | —             | 90             | 54     | 5      | namecheap      |
+| zero.adult   | available | $166.98   | —             | 112            | 53     | 4      | namecheap      |
 | best.adult   | resell    | —         | —             | 82             | 53     | 4      | Name.com, Inc. |
 | daily.adult  | premium   | $310      | $310          | 74             | 40     | 5      | name.com       |
 | fast.adult   | available | $166.98   | —             | 82             | 53     | 4      | namecheap      |
