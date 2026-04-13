@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .adult one-word domains from Uniqu
 
 **Public extract:** 9,746 rows · **Live catalog:** 9,746 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/adult`  
 **Best for:** founders, investors, studios
 
@@ -73,14 +73,14 @@ print(df.head())
 | good.adult   | available | $166.98   | —             | 82             | 55     | 4      | namecheap      |
 | the.adult    | resell    | —         | —             | 98             | 58     | 3      | Name.com, Inc. |
 | only.adult   | premium   | $310      | $310          | 110            | 46     | 4      | name.com       |
-| alpha.adult  | available | $166.98   | —             | 90             | 54     | 5      | namecheap      |
+| zero.adult   | available | $166.98   | —             | 112            | 53     | 4      | namecheap      |
 | shop.adult   | resell    | —         | —             | 78             | 54     | 4      | Name.com, Inc. |
 | deep.adult   | premium   | $310      | $310          | 72             | 43     | 4      | name.com       |
-| zero.adult   | available | $166.98   | —             | 112            | 53     | 4      | namecheap      |
-| best.adult   | resell    | —         | —             | 82             | 53     | 4      | Name.com, Inc. |
+| alpha.adult  | available | $166.98   | —             | 90             | 53     | 5      | namecheap      |
+| art.adult    | resell    | —         | —             | 90             | 52     | 3      | Name.com, Inc. |
 | daily.adult  | premium   | $310      | $310          | 74             | 40     | 5      | name.com       |
 | fast.adult   | available | $166.98   | —             | 82             | 53     | 4      | namecheap      |
-| art.adult    | resell    | —         | —             | 90             | 52     | 3      | Name.com, Inc. |
+| best.adult   | resell    | —         | —             | 82             | 52     | 4      | Name.com, Inc. |
 | review.adult | premium   | $322.40   | $322.40       | 94             | 39     | 6      | namecheap      |
 | true.adult   | available | $166.98   | —             | 86             | 52     | 4      | namecheap      |
 | find.adult   | resell    | —         | —             | 110            | 50     | 4      | Name.com, Inc. |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
