@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .adult one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,582 domains · **Median ask:** $168.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/adult`  
 **Best for:** founders, investors, studios
 
@@ -66,13 +66,13 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | tips.adult        | available | $166.98   | —             | 80             | 26     | 4      | namecheap |
 | barup.adult       | available | $166.98   | —             | 82             | 2      | 6      | namecheap |
-| popup.adult       | available | $166.98   | —             | 84             | 29     | 6      | namecheap |
+| popup.adult       | available | $166.98   | —             | 84             | 28     | 6      | namecheap |
 | playin.adult      | available | $166.98   | —             | 80             | 10     | 7      | namecheap |
 | QandA.adult       | available | $166.98   | —             | 80             | 10     | 7      | namecheap |
 | getlife.adult     | available | $166.98   | —             | 80             | 5      | 8      | namecheap |
 | RedSox.adult      | available | $166.98   | —             | 72             | 60     | 7      | namecheap |
 | Books.adult       | premium   | $347.20   | $347.20       | 52             | 49     | 5      | namecheap |
-| whynot.adult      | available | $166.98   | —             | 74             | 39     | 7      | namecheap |
+| whynot.adult      | available | $166.98   | —             | 74             | 44     | 7      | namecheap |
 | photos.adult      | premium   | $310      | —             | 54             | 28     | 6      | name.com  |
 | aliens.adult      | available | $166.98   | —             | 56             | 35     | 6      | namecheap |
 | shops.adult       | premium   | $465      | —             | 64             | 24     | 5      | name.com  |
@@ -80,10 +80,10 @@ print(df.head())
 | stores.adult      | premium   | $310      | —             | 62             | 20     | 6      | name.com  |
 | inspiration.adult | available | $166.98   | —             | 88             | 30     | 11     | namecheap |
 | pictures.adult    | premium   | $310      | —             | 82             | 17     | 8      | name.com  |
-| hookups.adult     | premium   | $310      | —             | 74             | 9      | 8      | name.com  |
 | heroes.adult      | available | $166.98   | —             | 68             | 29     | 6      | namecheap |
-| compilation.adult | premium   | $310      | —             | 68             | 7      | 11     | name.com  |
+| hookups.adult     | premium   | $310      | —             | 74             | 9      | 8      | name.com  |
 | quotes.adult      | available | $166.98   | —             | 58             | 29     | 6      | namecheap |
+| compilation.adult | premium   | $310      | —             | 68             | 7      | 11     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
