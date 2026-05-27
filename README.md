@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .adult one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,582 domains · **Median ask:** $168.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/adult`  
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | shops.adult       | premium   | $465      | —             | 64             | 24     | 5      | name.com  |
 | William.adult     | available | $166.98   | —             | 74             | 31     | 7      | namecheap |
 | stores.adult      | premium   | $310      | —             | 62             | 20     | 6      | name.com  |
-| inspiration.adult | available | $166.98   | —             | 88             | 30     | 11     | namecheap |
-| pictures.adult    | premium   | $310      | —             | 82             | 17     | 8      | name.com  |
 | heroes.adult      | available | $166.98   | —             | 68             | 29     | 6      | namecheap |
-| hookups.adult     | premium   | $310      | —             | 74             | 9      | 8      | name.com  |
+| pictures.adult    | premium   | $310      | —             | 82             | 17     | 8      | name.com  |
 | quotes.adult      | available | $166.98   | —             | 58             | 29     | 6      | namecheap |
+| hookups.adult     | premium   | $310      | —             | 74             | 9      | 8      | name.com  |
 | compilation.adult | premium   | $310      | —             | 68             | 7      | 11     | name.com  |
+| Jim.adult         | available | $166.98   | —             | 78             | 28     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
