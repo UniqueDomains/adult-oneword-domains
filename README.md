@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .adult one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,582 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,582 domains · **Median ask:** $168.46 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,582 domains · **Median ask:** $155.49 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/adult`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/adult`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ADULT one-word domain
 
 ### Files
 
-- `adult.csv` — public CSV extract (1,000 rows)
-- `adult.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `adult.csv`, public CSV extract (1,000 rows)
+- `adult.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| saucepan.adult   | available | $166.98   | —             | 90             | 5      | 8      | namecheap |
-| trip.adult       | available | $166.98   | —             | 110            | 36     | 4      | namecheap |
-| chips.adult      | premium   | —         | —             | 84             | 21     | 5      | —         |
-| variable.adult   | available | $166.98   | —             | 80             | 17     | 8      | namecheap |
-| tug.adult        | available | $166.98   | —             | 88             | 13     | 3      | namecheap |
-| myson.adult      | available | $166.98   | —             | 80             | 5      | 6      | namecheap |
-| subsidiary.adult | available | $166.98   | —             | 90             | 3      | 10     | namecheap |
-| hang.adult       | available | $166.98   | —             | 82             | 16     | 4      | namecheap |
-| despite.adult    | available | $166.98   | —             | 90             | 5      | 7      | namecheap |
-| astound.adult    | available | $166.98   | —             | 96             | 8      | 7      | namecheap |
-| stereotype.adult | available | $166.98   | —             | 80             | 7      | 10     | namecheap |
-| flickering.adult | premium   | —         | —             | 80             | 2      | 10     | —         |
-| boo.adult        | premium   | —         | —             | 100            | 23     | 3      | —         |
-| thank.adult      | available | $166.98   | —             | 112            | 14     | 5      | namecheap |
-| damn.adult       | available | $166.98   | —             | 140            | 24     | 4      | namecheap |
-| peer.adult       | available | $166.98   | —             | 102            | 35     | 4      | namecheap |
-| pita.adult       | available | $166.98   | —             | 80             | 12     | 4      | namecheap |
-| times.adult      | premium   | —         | —             | 80             | 22     | 5      | —         |
-| chief.adult      | available | $166.98   | —             | 120            | 30     | 5      | namecheap |
-| dreadful.adult   | available | $166.98   | —             | 82             | 5      | 8      | namecheap |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| coy.adult    | available | $166.98   | —             | medium         | low    | 3      | namecheap      |
+| web.adult    | resell    | —         | —             | high           | medium | 3      | Name.com, Inc. |
+| fun.adult    | premium   | $310      | —             | high           | medium | 3      | name.com       |
+| Fla.adult    | available | $166.98   | —             | medium         | low    | 3      | namecheap      |
+| hard.adult   | resell    | —         | —             | medium         | low    | 4      | Name.com, Inc. |
+| oil.adult    | premium   | $310      | $310          | high           | low    | 3      | name.com       |
+| her.adult    | available | $166.98   | —             | medium         | low    | 3      | namecheap      |
+| market.adult | resell    | —         | —             | high           | medium | 6      | Name.com, Inc. |
+| wet.adult    | premium   | $310      | —             | high           | low    | 3      | name.com       |
+| hey.adult    | available | $166.98   | —             | medium         | medium | 3      | namecheap      |
+| list.adult   | premium   | $310      | —             | high           | low    | 4      | name.com       |
+| jan.adult    | available | $166.98   | —             | high           | low    | 3      | namecheap      |
+| great.adult  | premium   | $465      | —             | high           | low    | 5      | name.com       |
+| kit.adult    | available | $166.98   | —             | medium         | low    | 3      | namecheap      |
+| sperm.adult  | premium   | $310      | —             | high           | low    | 5      | name.com       |
+| pub.adult    | available | $166.98   | —             | high           | low    | 3      | namecheap      |
+| thong.adult  | premium   | $310      | —             | medium         | low    | 5      | name.com       |
+| put.adult    | available | $166.98   | —             | high           | low    | 3      | namecheap      |
+| weird.adult  | premium   | $310      | $310          | medium         | low    | 5      | name.com       |
+| tug.adult    | available | $166.98   | —             | high           | low    | 3      | namecheap      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,582 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely .adult domain names, so the main decision is not extension choice but keyword quality, buyer fit, and price discipline. Some names are direct category terms such as tips.adult or ladies.adult. Others are broader words like homes.adult or finals.adult that may be memorable but less precise. For founders, the best candidates are clear, defensible words that match the intended audience without creating confusion. For investors, focus on whether the keyword has obvious commercial relevance, whether the ask leaves room versus likely resale demand, and whether the name carries avoidable trademark or interpretation risk.
+This list of one-word .adult domains spans everyday terms and compound names such as playin.adult, edamame.adult, and coffeeroyal.adult. The vast majority are priced under $500, with a median ask near $155, making this set accessible for both quick acquisitions and longer-term holds. Demand is concentrated at the low end, so a small number of names — including show.adult and watch.adult — stand out with pricing well below their reference value. Comparing ask price, renewal cost, and demand score helps separate the ownable-now bargains from the low-interest bulk of the set.
 
-- Median ask is $168.43 across this .adult selection
-- Exact-match terms tend to be clearer than abstract words
-- Check trademark exposure on city, brand, and product terms
-- Renewal cost matters more on niche extensions like .adult
+- 12,582 available one-word .adult domains, updated daily
+- Median ask near $155; most list under $500
+- Only 83 domains score in the top 15% for demand
+- Undervalued picks include show.adult and watch.adult
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
