@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .adult one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,428 domains · **Median ask:** $118.14 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/adult`
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| bad.adult     | available | —         | —             | high           | high   | 3      | —                |
-| damn.adult    | available | $166.98   | —             | high           | low    | 4      | namecheap        |
-| correct.adult | available | $166.98   | —             | high           | low    | 7      | namecheap        |
-| great.adult   | premium   | $465      | —             | high           | low    | 5      | name.com         |
-| bang.adult    | available | —         | —             | high           | low    | 4      | —                |
 | azo.adult     | available | $69.98    | $166.98       | low            | low    | 3      | namecheap        |
 | dessert.adult | resell    | $166.98   | —             | medium         | low    | 7      | GoDaddy.com, LLC |
 | fun.adult     | premium   | $310      | —             | high           | medium | 3      | name.com         |
@@ -82,8 +77,13 @@ print(df.head())
 | market.adult  | resell    | —         | —             | high           | medium | 6      | Name.com, Inc.   |
 | list.adult    | premium   | $310      | —             | high           | low    | 4      | name.com         |
 | her.adult     | available | $166.98   | —             | medium         | low    | 3      | namecheap        |
+| great.adult   | premium   | $465      | —             | high           | low    | 5      | name.com         |
 | hey.adult     | available | $166.98   | —             | medium         | medium | 3      | namecheap        |
 | sperm.adult   | premium   | $310      | —             | high           | low    | 5      | name.com         |
+| jan.adult     | available | $166.98   | —             | high           | low    | 3      | namecheap        |
+| thong.adult   | premium   | $310      | —             | medium         | low    | 5      | name.com         |
+| kit.adult     | available | $166.98   | —             | medium         | low    | 3      | namecheap        |
+| weird.adult   | premium   | $310      | $310          | medium         | low    | 5      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
