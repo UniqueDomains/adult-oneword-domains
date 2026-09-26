@@ -1,10 +1,10 @@
-# Available .ADULT One-Word Domains (32,437)
+# Available .ADULT One-Word Domains (14,661)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C437%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C661%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .adult one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,437 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,661 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,437 domains · **Median ask:** $93.96 · **High-demand under $2,500:** 9
+**Public extract:** 1,000 rows · **Live catalog:** 14,661 domains · **Median ask:** $93.65 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/adult`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| azo.adult    | available | $69.98    | $166.98       | high           | low    | 3      | namecheap                                |
-| hard.adult   | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.                           |
-| hole.adult   | premium   | $310      | —             | high           | low    | 4      | name.com                                 |
-| bay.adult    | available | $69.98    | $166.98       | high           | low    | 3      | namecheap                                |
-| play.adult   | resell    | —         | —             | high           | medium | 4      | Hosting Concepts B.V. d/b/a Registrar.eu |
-| list.adult   | premium   | $310      | —             | high           | low    | 4      | name.com                                 |
-| boy.adult    | available | $69.98    | $166.98       | high           | low    | 3      | namecheap                                |
-| phone.adult  | resell    | —         | —             | high           | low    | 5      | Name.com, Inc.                           |
-| shoe.adult   | premium   | $347.20   | $347.20       | high           | low    | 4      | namecheap                                |
-| bye.adult    | available | $166.98   | —             | high           | low    | 3      | namecheap                                |
-| prompt.adult | resell    | —         | —             | high           | medium | 6      | Porkbun                                  |
-| index.adult  | premium   | $166.98   | —             | high           | medium | 5      | namecheap                                |
-| eid.adult    | available | $166.98   | —             | high           | low    | 3      | namecheap                                |
-| sperm.adult  | premium   | $310      | —             | high           | low    | 5      | name.com                                 |
-| fla.adult    | available | $166.98   | —             | high           | low    | 3      | namecheap                                |
-| thong.adult  | premium   | $310      | —             | high           | low    | 5      | name.com                                 |
-| her.adult    | available | $166.98   | —             | high           | low    | 3      | namecheap                                |
-| watch.adult  | premium   | $310      | —             | high           | low    | 5      | name.com                                 |
-| hey.adult    | available | $166.98   | —             | high           | medium | 3      | namecheap                                |
-| woman.adult  | premium   | $310      | —             | high           | low    | 5      | name.com                                 |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
+| azo.adult     | available | $69.98    | $166.98       | high           | low    | 3      | namecheap                                |
+| dessert.adult | resell    | $166.98   | —             | high           | low    | 7      | GoDaddy.com, LLC                         |
+| fun.adult     | premium   | $322.40   | $322.40       | high           | medium | 3      | namecheap                                |
+| bay.adult     | available | $69.98    | $166.98       | high           | low    | 3      | namecheap                                |
+| hard.adult    | resell    | —         | —             | high           | low    | 4      | Name.com, Inc.                           |
+| hole.adult    | premium   | $310      | —             | high           | low    | 4      | name.com                                 |
+| boy.adult     | available | $69.98    | $166.98       | high           | low    | 3      | namecheap                                |
+| play.adult    | resell    | —         | —             | high           | medium | 4      | Hosting Concepts B.V. d/b/a Registrar.eu |
+| list.adult    | premium   | $322.40   | $322.40       | high           | low    | 4      | namecheap                                |
+| bye.adult     | available | $166.98   | —             | high           | low    | 3      | namecheap                                |
+| phone.adult   | resell    | —         | —             | high           | low    | 5      | Name.com, Inc.                           |
+| shoe.adult    | premium   | $347.20   | $347.20       | high           | low    | 4      | namecheap                                |
+| eid.adult     | available | $166.98   | —             | high           | low    | 3      | namecheap                                |
+| prompt.adult  | resell    | —         | —             | high           | medium | 6      | Porkbun                                  |
+| index.adult   | premium   | $166.98   | —             | high           | medium | 5      | namecheap                                |
+| fla.adult     | available | $166.98   | —             | high           | low    | 3      | namecheap                                |
+| sperm.adult   | premium   | $310      | —             | high           | low    | 5      | name.com                                 |
+| her.adult     | available | $166.98   | —             | high           | low    | 3      | namecheap                                |
+| thong.adult   | premium   | $310      | —             | high           | low    | 5      | name.com                                 |
+| hey.adult     | available | $166.98   | —             | high           | medium | 3      | namecheap                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,437 live domains                        |
+| 1,000-row public sample | 14,661 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 9 high-demand names under $2,500           |
+| Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ADULT One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
